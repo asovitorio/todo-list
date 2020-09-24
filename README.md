@@ -11,7 +11,7 @@ Curso Udemy<br>
 <br>
 >
 > ## API
-> ![interface](./API.png)
+> ![API](./API.png)
 ><br>
 <br>
 
